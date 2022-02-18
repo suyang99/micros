@@ -1,0 +1,15 @@
+{
+  "name": "dummy/dummy",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Evirus",
+      "email": "user@gmail.com"
+    }
+  ],
+  "require": {
+    "evirus/redis": "1.0.0"
+  }
+}
